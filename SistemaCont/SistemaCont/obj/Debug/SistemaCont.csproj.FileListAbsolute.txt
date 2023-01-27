@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.Properties.Resources.resources
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.csproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaCont\SistemaCont\bin\Debug\SistemaCont.exe.config
+C:\Users\HP\Documents\SistemaCont\SistemaCont\bin\Debug\SistemaCont.exe
+C:\Users\HP\Documents\SistemaCont\SistemaCont\bin\Debug\SistemaCont.pdb
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.Form1.resources
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.exe
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.pdb
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.Form2.resources
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.Form3.resources
+C:\Users\HP\Documents\SistemaCont\SistemaCont\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Documents\SistemaCont\SistemaCont\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HP\Documents\SistemaCont\SistemaCont\obj\Debug\SistemaCont.csproj.CopyComplete
